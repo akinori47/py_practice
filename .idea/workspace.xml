@@ -4,7 +4,12 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82700f0f-a874-4fa2-a055-4920073a64c3" name="Default Changelist" comment="" />
+    <list default="true" id="82700f0f-a874-4fa2-a055-4920073a64c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_practice/swordfish.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_practice/swordfish.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,16 +17,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/py_practice$magic8Ball.coverage" NAME="magic8Ball Coverage Results" MODIFIED="1541067852069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
-    <SUITE FILE_PATH="coverage/py_practice$sameName2.coverage" NAME="sameName2 Coverage Results" MODIFIED="1541669960466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
-    <SUITE FILE_PATH="coverage/py_practice$swordfish.coverage" NAME="swordfish Coverage Results" MODIFIED="1541488258051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_practice" />
-    <SUITE FILE_PATH="coverage/py_practice$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1541482137947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36-32" />
+    <SUITE FILE_PATH="coverage/py_practice$swordfish.coverage" NAME="swordfish Coverage Results" MODIFIED="1542282843832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_practice" />
     <SUITE FILE_PATH="coverage/py_practice$sameName3.coverage" NAME="sameName3 Coverage Results" MODIFIED="1541674208780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
     <SUITE FILE_PATH="coverage/py_practice$sameName.coverage" NAME="sameName Coverage Results" MODIFIED="1541661959545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
-    <SUITE FILE_PATH="coverage/py_practice$first.coverage" NAME="first Coverage Results" MODIFIED="1540882595283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_practice" />
-    <SUITE FILE_PATH="coverage/py_practice$guessTheNumber.coverage" NAME="guessTheNumber Coverage Results" MODIFIED="1541767533501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
+    <SUITE FILE_PATH="coverage/py_practice$magic8Ball.coverage" NAME="magic8Ball Coverage Results" MODIFIED="1541067852069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
     <SUITE FILE_PATH="coverage/py_practice$1.coverage" NAME="1 Coverage Results" MODIFIED="1541657448169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_practice" />
+    <SUITE FILE_PATH="coverage/py_practice$sameName2.coverage" NAME="sameName2 Coverage Results" MODIFIED="1541669960466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
+    <SUITE FILE_PATH="coverage/py_practice$guessTheNumber.coverage" NAME="guessTheNumber Coverage Results" MODIFIED="1542171074999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
     <SUITE FILE_PATH="coverage/py_practice$sameName4.coverage" NAME="sameName4 Coverage Results" MODIFIED="1541768750685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
+    <SUITE FILE_PATH="coverage/py_practice$first.coverage" NAME="first Coverage Results" MODIFIED="1540882595283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_practice" />
+    <SUITE FILE_PATH="coverage/py_practice$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1541482137947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36-32" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="247" />
@@ -74,6 +79,41 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1401613208">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="56" />
+          <entry key="py" value="461" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="517" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="py_practice" />
@@ -83,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_practice/1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state>
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -92,17 +132,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/sameName3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="-7">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/sameName4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="-7">
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -110,22 +150,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/guessTheNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first_practice/swordfish.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
-                <marker date="1541767696327" expanded="true" signature="33:38" ph="..." />
+                <marker date="1542281207725" expanded="true" signature="54:59" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first_practice/swordfish.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/first_practice/test.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -139,17 +184,19 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/first_practice/first.py" />
-        <option value="$PROJECT_DIR$/first_practice/swordfish.py" />
         <option value="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/magic8Ball.py" />
         <option value="$PROJECT_DIR$/first_practice/1.py" />
         <option value="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/sameName3.py" />
         <option value="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/guessTheNumber.py" />
         <option value="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/sameName4.py" />
+        <option value="$PROJECT_DIR$/first_practice/test.py" />
+        <option value="$PROJECT_DIR$/first_practice/swordfish.py" />
       </list>
     </option>
   </component>
@@ -159,11 +206,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="220" />
-    <option name="y" value="220" />
-    <option name="width" value="1590" />
-    <option name="height" value="706" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1925" />
+    <option name="y" value="199" />
+    <option name="width" value="1331" />
+    <option name="height" value="734" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -190,7 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,21 +251,37 @@
             </path>
             <path>
               <item name="py_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="py_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/GitHubDesktop.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\khafizov.ri.BASHKORTOSTAN\PycharmProjects\py_practice\first_practice" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sameName4">
+  <component name="RunManager" selected="Python.swordfish">
     <configuration name="guessTheNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,7 +303,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -376,8 +438,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sameName4" />
         <item itemvalue="Python.guessTheNumber" />
+        <item itemvalue="Python.sameName4" />
         <item itemvalue="Python.sameName3" />
         <item itemvalue="Python.sameName2" />
         <item itemvalue="Python.sameName" />
@@ -407,26 +469,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="220" width="1590" height="706" extended-state="0" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1296" height="1040" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.84682715" visible="true" weight="0.23116884" />
-      <window_info id="Structure" order="1" sideWeight="0.15317287" side_tool="true" visible="true" weight="0.23116884" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.67718" visible="true" weight="0.29773462" />
+      <window_info id="Structure" order="1" sideWeight="0.32282004" side_tool="true" visible="true" weight="0.29773462" />
       <window_info id="Favorites" order="2" sideWeight="0.15301724" side_tool="true" weight="0.29300413" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" sideWeight="0.4968051" weight="0.3264865" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.48506492" weight="0.31345826" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.27458695" weight="0.26130098" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.4930041" weight="0.3983051" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4930041" weight="0.3238342" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4996066" weight="0.3294509" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5149351" side_tool="true" visible="true" weight="0.22146508" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.48971194" weight="0.37953368" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.5012346" weight="0.4079903" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.7254131" side_tool="true" weight="0.39434275" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.48859167" weight="0.3792723" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="13" sideWeight="0.7380016" visible="true" weight="0.4057332" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32921812" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -437,6 +498,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -449,27 +536,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first_practice/swordfish.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/1.py" />
     <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/magic8Ball.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <marker date="1541077717875" expanded="true" signature="621:629" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -487,20 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first_practice/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/sameName3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -515,20 +572,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/guessTheNumber.py">
+    <entry file="file://$PROJECT_DIR$/first_practice/1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <marker date="1541767696327" expanded="true" signature="33:38" ph="..." />
-          </folding>
+        <state>
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/sameName3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/sameName4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="-7">
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_practice/последовательность коллатца.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_practice/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Автоматизация рутинных задач Python/code/guessTheNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_practice/swordfish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1542281207725" expanded="true" signature="54:59" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
