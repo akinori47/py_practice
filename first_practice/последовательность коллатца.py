@@ -9,6 +9,10 @@ def collatz(number):
 
 
 print("Введите число для построения последовательнсоти Коллатца:")
-i = int(input())
-while i > 1:
-    i = collatz(i)
+try:
+    i = int(input())
+except ValueError:
+    print("ОШИБКА!!! Введите число")
+else:
+    while i > 1:
+        i = collatz(i)
