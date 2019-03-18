@@ -15,4 +15,5 @@ grid = list(map(list, (zip(*grid))))
 
 for i in range (len(grid)):
     print(grid[i])
-# print (np.array(grid).T.tolist())
+
+print (np.array(grid).T.tolist())
