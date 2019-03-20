@@ -18,9 +18,10 @@ for item in content:        # считаем кол-во каждого симв
     else:
         items[item] = 1
 
-if items[item] == 1:        # выводим символы встречающиеся 1 раз
-    for item in items:
+for item in items:
+    if items[item] == 1:        # выводим символы встречающиеся 1 раз
         print(item)
+
 
 # answer = equality
 
