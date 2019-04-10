@@ -9,7 +9,12 @@ class b_colors:
 
 
 def multi_table():
+    print('*  |', end="\t")
     for i in range(1, 10):
+        print(i, end="\t")
+    print('\n---|-------------------------------------')
+    for i in range(1, 10):
+        print(i, " |", end="\t")
         for j in range(1, 10):
             if (i * j) % 2 == 0:       #Условие для вывода четных и нечетных чисел разными цветами
                 print(b_colors.OKBLUE + str(i * j) + b_colors.ENDC, end="\t")
