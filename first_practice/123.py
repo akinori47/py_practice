@@ -16,7 +16,7 @@ def multi_table():
     for i in range(1, 10):
         print(i, " |", end="\t")
         for j in range(1, 10):
-            if (i * j) % 2 == 0:       #Условие для вывода четных и нечетных чисел разными цветами
+            if (i * j) % 2 == 0:       # Условие для вывода четных и нечетных чисел разными цветами
                 print(b_colors.OKBLUE + str(i * j) + b_colors.ENDC, end="\t")
             else:
                 print(b_colors.OKGREEN + str(i * j) + b_colors.ENDC, end="\t")
@@ -24,13 +24,3 @@ def multi_table():
 
 
 multi_table()
-
-
-
-
-
-
-
-
-
-
